@@ -42,3 +42,14 @@ print(einText)
 
 eingeleseneZahl = int (input("Bitte Zahl eingeben: "))
 print ("Zahl eingelesen vom typ", type(eingeleseneZahl))
+
+# Funktionen
+#int main(void) {
+#    printf("Hallo Funktion!");
+#}
+
+def main(): 
+    print("Hallo main!")
+
+
+main()
