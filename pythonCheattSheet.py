@@ -1,3 +1,6 @@
+import os
+os.system("cls")
+
 # Dies ist ein kleines Cheat-Sheet fuer die Verwendung von Python fuer C und C++ Programmierer.
 
 
