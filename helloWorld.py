@@ -2,6 +2,7 @@
 # printf("Hallo C")
 
 print("Hallo World Python!!!\nsuper cool")
+print("Zum ausprobieren")
 
 # Ausfuehren auf der CMD:
 # gcc helloworld.py -> FAIL!
