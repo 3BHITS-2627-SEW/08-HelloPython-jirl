@@ -1,2 +1,2 @@
 eingelesenerName = (input("Bitte Name eingeben: "))
-print ("Hallo", eingelesenerName, "!")
+print ("Hallo " + eingelesenerName + "!")
